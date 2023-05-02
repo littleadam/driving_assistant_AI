@@ -2,6 +2,10 @@ A driving assistant AI tool is a technology that helps drivers to navigate, avoi
 
 The driving assistant AI tools typically use a combination of sensors, cameras, GPS, and other technologies to gather data about the vehicle's environment and driving conditions. This data is then analyzed in real-time to provide drivers with suggestions and alerts that can help them avoid accidents and navigate safely.
 
+It provides parking and turning suggestions without a need for a third person for directions. 
+
 In addition to improving safety and efficiency, driving assistant AI tools can also be used to improve the overall driving experience. For example, they can be used to optimize fuel consumption, suggest places to eat or stop along a route, and even monitor driver behavior to provide feedback on how to improve driving habits.
+
+also, it does diagnostic tests before and after running the vehicle. this includes engine health status,smoke levels, fuel-distance calculation , oil levels, brakes functionality, AC and signalling tests, tire pressure and light checks and features
 
 Overall, driving assistant AI tools have the potential to significantly improve the safety and efficiency of driving, and they are likely to become increasingly common as the technology continues to advance. However, it's important to note that these tools are not a substitute for responsible driving practices, and drivers should always be attentive and follow traffic laws and regulations.
